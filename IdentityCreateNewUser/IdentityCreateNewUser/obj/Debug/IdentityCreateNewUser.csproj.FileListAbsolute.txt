@@ -1,0 +1,14 @@
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\bin\Debug\IdentityCreateNewUser.exe.config
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\bin\Debug\IdentityCreateNewUser.exe
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\bin\Debug\IdentityCreateNewUser.pdb
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\bin\Debug\EntityFramework.dll
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\bin\Debug\EntityFramework.xml
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\obj\Debug\IdentityCreateNewUser.csprojResolveAssemblyReference.cache
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\obj\Debug\IdentityCreateNewUser.exe
+D:\Software\Dot_net\IndentityFramwork\IdentityCreateNewUser\IdentityCreateNewUser\obj\Debug\IdentityCreateNewUser.pdb

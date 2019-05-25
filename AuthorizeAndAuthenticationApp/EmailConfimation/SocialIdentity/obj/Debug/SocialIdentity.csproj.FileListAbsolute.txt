@@ -1,0 +1,324 @@
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\SocialIdentity.dll.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\SocialIdentity.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\SocialIdentity.pdb
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Owin.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\obj\Debug\SocialIdentity.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\obj\Debug\SocialIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\obj\Debug\SocialIdentity.csproj.CopyComplete
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\obj\Debug\SocialIdentity.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_03_XR15_NewProject_End\SocialIdentity\obj\Debug\SocialIdentity.pdb
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\ApplicationInsights.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\SocialIdentity.dll.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\SocialIdentity.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\SocialIdentity.pdb
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\csc.exe
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\csc.exe.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\csc.rsp
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\csi.exe
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\csi.exe.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\csi.rsp
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.AppContext.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Console.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\vbc.exe
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\vbc.exe.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\vbc.rsp
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Antlr3.Runtime.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\EntityFramework.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\EntityFramework.SqlServer.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AI.Web.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Newtonsoft.Json.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Owin.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.Helpers.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.Mvc.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.Optimization.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.Razor.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.WebPages.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\WebGrease.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.Helpers.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.Mvc.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.Optimization.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.Razor.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.WebPages.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Newtonsoft.Json.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Antlr3.Runtime.pdb
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\EntityFramework.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\EntityFramework.SqlServer.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.AI.Web.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\obj\Debug\SocialIdentity.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\obj\Debug\SocialIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\obj\Debug\SocialIdentity.csproj.CopyComplete
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\obj\Debug\SocialIdentity.dll
+C:\Users\Ervis Trupja\Pictures\Test Movies\728415_02_04_XR15_Twitter_End\SocialIdentity\obj\Debug\SocialIdentity.pdb
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\obj\Debug\SocialIdentity.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\obj\Debug\SocialIdentity.pdb
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\ApplicationInsights.config
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\SocialIdentity.dll.config
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\SocialIdentity.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\SocialIdentity.pdb
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Antlr3.Runtime.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\EntityFramework.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\EntityFramework.SqlServer.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AI.Web.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AI.WindowsServer.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.ApplicationInsights.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.Google.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Web.Infrastructure.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Newtonsoft.Json.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Owin.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.Helpers.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.Mvc.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.Optimization.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.Razor.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.WebPages.Deployment.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.WebPages.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.WebPages.Razor.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\WebGrease.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.Helpers.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.Mvc.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.Optimization.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.Razor.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.WebPages.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.WebPages.Deployment.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Web.WebPages.Razor.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Newtonsoft.Json.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Antlr3.Runtime.pdb
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\EntityFramework.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\EntityFramework.SqlServer.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.Google.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AI.WindowsServer.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\Microsoft.AI.Web.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\SendGrid.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Net.Http.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Security.Cryptography.Algorithms.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Security.Cryptography.Encoding.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Security.Cryptography.Primitives.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\SendGrid.pdb
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\bin\SendGrid.xml
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\obj\Debug\SocialIdentity.csprojResolveAssemblyReference.cache
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\obj\Debug\SocialIdentity.Migrations.ExtendUserInfo.resources
+E:\Dot_net\PluralSight_Identity\EmailConfimation\SocialIdentity\obj\Debug\SocialIdentity.csproj.GenerateResource.Cache

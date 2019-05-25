@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooApp.Models", "ZooApp.Models\ZooApp.Models.csproj", "{82A863D4-1986-45EB-A7B7-F492AE0006F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoooApp.MvcClient", "ZoooApp.MvcClient\ZoooApp.MvcClient.csproj", "{AF01DAB2-9A45-44E7-9153-85D05FD2841F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooApp.Service", "ZooApp.Service\ZooApp.Service.csproj", "{30F82C65-0B6B-46CF-9A14-48AB3C5A2127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooApp.ViewModels", "ZooApp.ViewModels\ZooApp.ViewModels.csproj", "{51B9CEAA-D180-45DF-B317-C56BD05D1F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A863D4-1986-45EB-A7B7-F492AE0006F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A863D4-1986-45EB-A7B7-F492AE0006F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A863D4-1986-45EB-A7B7-F492AE0006F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A863D4-1986-45EB-A7B7-F492AE0006F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF01DAB2-9A45-44E7-9153-85D05FD2841F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF01DAB2-9A45-44E7-9153-85D05FD2841F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF01DAB2-9A45-44E7-9153-85D05FD2841F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF01DAB2-9A45-44E7-9153-85D05FD2841F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F82C65-0B6B-46CF-9A14-48AB3C5A2127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F82C65-0B6B-46CF-9A14-48AB3C5A2127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F82C65-0B6B-46CF-9A14-48AB3C5A2127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F82C65-0B6B-46CF-9A14-48AB3C5A2127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B9CEAA-D180-45DF-B317-C56BD05D1F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B9CEAA-D180-45DF-B317-C56BD05D1F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B9CEAA-D180-45DF-B317-C56BD05D1F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B9CEAA-D180-45DF-B317-C56BD05D1F39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
